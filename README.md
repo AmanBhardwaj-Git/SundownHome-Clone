@@ -3,4 +3,4 @@
  ## clonned sundown homepage using
 - > Html
 - > CSS
-= > JS {locomotive, swipperjs}   
+- > JS {locomotive, swipperjs}   

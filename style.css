@@ -510,17 +510,26 @@ nav h3 {
   }
 }
 #page5 {
-  height: 105vh;
+  height: 100vh;
   width: 100%;
   background-color: #efeae3;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5vw 0vw;
+  flex-direction: column;
+  padding: 0vw 3.2vw;
+}
+#page5 #nav-part2{
+  align-self: flex-start;
+  margin-bottom: 1.2vw;
+}
+#page6{
+  height: 100vh;
+  width: 100%;
 }
 #page5 #imgcontent{
-  height: 100%;
-  width: 90%;
+  height: 80%;
+  width: 80%;
   border-radius: 20px;
   overflow: hidden;
 }
